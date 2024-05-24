@@ -1,2 +1,2 @@
-# Solidity-Smart-Contract
-Distribution Algorithm
+# Solidity-Smart-Contracts
+All Smart Contract
