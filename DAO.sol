@@ -10,7 +10,6 @@ contract demo {
 
     struct Proposal {
         uint id;
-
         string description;
         uint amount;
         address payable receipient;
