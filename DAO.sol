@@ -15,7 +15,6 @@ contract demo {
         address payable receipient;
         uint votes;
         uint end;
-
         bool isExecuted;
     }
 
