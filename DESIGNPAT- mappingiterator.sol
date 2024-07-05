@@ -10,3 +10,4 @@ contract test{
         arr.push(msg.sender);//this is important as mapping is non iterable, so you can push it into an array.
     }
 }
+//Mapping iterator
