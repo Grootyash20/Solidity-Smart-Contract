@@ -6,7 +6,7 @@ contract withdrawal{
     address payable manager;
     mapping(address=>uint) richestperson;
     address payable richest;
-    uint richest_value;
+    uint richest_value; 
 
     constructor() payable{
         richest = payable(msg.sender);
